@@ -138,7 +138,7 @@ If you identify with any of the following statements, you would be a great candi
 ✉️ Personal Email: ethanm265@yahoo.com<br>
 ✉️ School Email: ethanmar@umich.edu<br>
 📞 Phone: 313-605-9030 (call or text)<br>
-🕹 Nintendo Switch Friend Code: SW-??????
+🕹 Nintendo Switch Friend Code: SW-1977-3560-1213
 
 <br>
 <br>
