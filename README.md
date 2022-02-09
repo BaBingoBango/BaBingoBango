@@ -98,7 +98,7 @@ Due to COVID-19 App Store regulations, it was never publicly released. For this 
  - Use a "Healthcare Mode" intended for frontline COVID-19 medical staff
  - Block or report users
 
-The server has since been deactivated, but the experience helped me learn about back-end design and interfacing with Sql databases. This being said, the experience was slightly scarring.
+The server has since been deactivated, but the experience helped me learn about back-end design and interfacing with SQL databases. This being said, the experience was slightly scarring.
 
 > **Fun Fact No. 4**<br>
 > I have a slight fear of back-end development, due to my relative lack of experience. Thus, I am actively looking for experience in this area to conquer my fear and be even more super cool!
@@ -113,7 +113,7 @@ While not my first ever app idea, this simple concept became my first-ever compl
 
 In case you're not a super cool youth like me, the social networking app Snapchat keeps a record of the number of consecutive days two users have sent each other an image or video - the super cool youth know this as a *Snapstreak*.
 
-After falling for this marketing tactic, I accumulated very high streaks (my record is over 900 days!) and subsequently lost some of them. This was very disheartening. So I decided to prevent this from ever happening again and learn to code at the same time! Enter...StreakPal! It allows users to...
+After falling for this marketing tactic, I accumulated very high streaks (my record is over 900 days!) and subsequently lost some of them. This was very disheartening. So I decided to prevent this from ever happening again and learn to code at the same time! Enter StreakPal! It allows users to...
 
  - Set up notifications to appear at certain times
  - Mark these notifications as Time Sensitive
