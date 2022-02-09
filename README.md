@@ -45,6 +45,8 @@ I've taken on several personal programming projects, both for learning purposes 
 
 What follows is a description of each of my projects here on GitHub. Feel free to peruse the code, download the code, and laugh at my beginner mistakes!
 
+<br>
+
 **Multiqueue**<br>
 *Platforms: iOS, iPadOS, macOS*<br>
 *Status: In Beta Testing*<br>
@@ -62,6 +64,8 @@ This way, the terrible power of being DJ is split amongst many and balance resto
 
 > **Fun Fact No. 3**<br>
 > I have at least one Justin Bieber song in my library. Again, if you feel you must leave at this time, I completely understand.
+
+<br>
 
 **Neodex**<br>
 *Platforms: iOS, iPadOS, macOS*<br>
@@ -84,6 +88,8 @@ This is my largest, most complex project by far and has been in on-and-off devel
 > 
 > ...please do not actually close the tab :)
 
+<br>
+
 **Viruses Aren't Alive**<br>
 *Platforms: iOS*<br>
 *Status: Completed; Server Deactivated*<br>
@@ -102,6 +108,8 @@ The server has since been deactivated, but the experience helped me learn about 
 
 > **Fun Fact No. 4**<br>
 > I have a slight fear of back-end development, due to my relative lack of experience. Thus, I am actively looking for experience in this area to conquer my fear and be even more super cool!
+
+<br>
 
 **StreakPal**<br>
 *Platforms: iOS, iPadOS*<br>
