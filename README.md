@@ -12,9 +12,14 @@ If you're still here, please read on to learn more about my programming interest
 
 ## Contents
 
- - 👀 Interests
- - 🌱 Knowledge & Education
- - 🖥 Projects
+ - 👀 [Interests](https://github.com/BaBingoBango#-interests)
+ - 🌱 [Knowledge & Education](https://github.com/BaBingoBango#-knowledge--education)
+ - 📫 [Contact Information](https://github.com/BaBingoBango#-contact-information)
+ - 🖥 [Projects](https://github.com/BaBingoBango#-projects)
+	 - Multiqueue
+	 - Neodex
+	 - Viruses Aren't Alive
+	 - StreakPal
 
 ## 👀 Interests
 In general, I'm a student of computer science, but more specifically interested in the following areas of technology:
@@ -58,7 +63,7 @@ If you identify with any of the following statements, you would be a great candi
 
 ## 🖥 Projects
 
-I've taken on several personal programming projects, both for learning purposes and being cool purposes (it's totally cool having a published app, right?). As the Swift language has been my learning tool for many years, my projects are almost 100%  Swift (but if you can find the JavaScript, that's 5 points for your Hogwarts house).
+I've taken on several personal programming projects, both for learning purposes and being cool purposes (it's totally cool having a published app, right?). As the Swift language has been my learning tool for many years, my projects are almost 100% Swift.
 
 What follows is a description of each of my projects here on GitHub. Feel free to peruse the code, download the code, and laugh at my beginner mistakes!
 
