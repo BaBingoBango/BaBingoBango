@@ -8,7 +8,13 @@ Thanks for visiting my page here on GitHub - it's where I've uploaded all the co
 > I don't like peanut butter. No, I'm not allergic. If this is too disturbing, please feel free to leave now and never
 > look back. I understand.
 
-If you're still here, please read on to learn more about my programming interests, projects, and education! Alternatively, if you share my views on peanut butter, please contact me immediately and mark your message as top priority.
+If you're still here, please read on to learn more about my programming interests, projects, and education!
+
+## Contents
+
+ - 👀 Interests
+ - 🌱 Knowledge & Education
+ - 🖥 Projects
 
 ## 👀 Interests
 In general, I'm a student of computer science, but more specifically interested in the following areas of technology:
@@ -35,6 +41,20 @@ While I still have a lot to learn, from my education at Michigan and elsewhere, 
 
 > **Fun Fact No. 2**<br>
 > My first exposure to programming was on my 2015 iPad Air! I had a blast learning to code using Apple's [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) app and so have the strongest experience in the Swift language.
+
+## 📫 Contact Information
+
+If you identify with any of the following statements, you would be a great candidate to look at my contact information!
+
+ - You would like to contact me for any reason
+ - You have questions about me, my projects, or my experience
+ - You have an exciting opportunity that I would love to hear about
+ - You have pictures of small animals
+
+✉️ Personal Email: ethanm265@yahoo.com<br>
+✉️ School Email: ethanmar@umich.edu<br>
+📞 Phone: 313-605-9030 (call or text)<br>
+🕹 Nintendo Switch Friend Code: SW-1977-3560-1213
 
 ## 🖥 Projects
 
@@ -123,20 +143,6 @@ Certainly a simple app, but making it was the true start of my programming journ
 
 > **Fun Fact No. 5**<br>
 > I am totally super cool.
-
-## 📫 Contact Information
-
-If you identify with any of the following statements, you would be a great candidate to look at my contact information!
-
- - You would like to contact me for any reason
- - You have questions about me, my projects, or my experience
- - You have an exciting opportunity that I would love to hear about
- - You have pictures of small animals
-
-✉️ Personal Email: ethanm265@yahoo.com<br>
-✉️ School Email: ethanmar@umich.edu<br>
-📞 Phone: 313-605-9030 (call or text)<br>
-🕹 Nintendo Switch Friend Code: SW-1977-3560-1213
 
 <br>
 <br>
