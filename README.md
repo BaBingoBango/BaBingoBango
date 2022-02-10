@@ -80,11 +80,6 @@ The Pokédex, [as defined by the fans](https://pokemon.fandom.com/wiki/Pok%C3%A9
 
 This is my largest, most complex project by far and has been in on-and-off development for over a year (I guess I should really get on this...) but the development of its web scrapers, UI, and data semantics have helped me greatly in my quest to become the best there ever was (at programming). Also, it has helped me in my quest to have an offline Pokédex I actually like.
 
-> **Fun Fact Quiz!**<br>
-> I bet you weren't expecting this! Do you remember [my favorite Pokémon](https://www.pokemon.com/us/pokedex/cosmog)? If not, I'm going to have to ask you to leave. I'm terribly sorry, but please go ahead and close the tab now. It was nice meeting you though!
-> 
-> ...please do not actually close the tab :)
-
 <br>
 
 **Viruses Aren't Alive**<br>
@@ -133,12 +128,10 @@ Certainly a simple app, but making it was the true start of my programming journ
 
 If you identify with any of the following statements, you would be a great candidate to look at my contact information!
 
+ - You would like to contact me for any reason
  - You have questions about me, my projects, or my experience
  - You have an exciting opportunity that I would love to hear about
- - You share my feelings about peanut butter
- - You loved my fun facts
  - You have pictures of small animals
- - You would like to contact me for any reason
 
 ✉️ Personal Email: ethanm265@yahoo.com<br>
 ✉️ School Email: ethanmar@umich.edu<br>
