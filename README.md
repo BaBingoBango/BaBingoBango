@@ -145,8 +145,7 @@ If you identify with any of the following statements, you would be a great candi
 **In closing, I'd like to thank you very much for visiting my GitHub page and wish you a wonderful day! :)**
 
 -Ethan Marshall<br>
-*Computer Science Student<br>
-Aspiring Pokémon Master*
+*Computer Science Student*
 
 <!---
 BaBingoBango/BaBingoBango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
