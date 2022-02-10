@@ -87,7 +87,7 @@ This is my largest, most complex project by far and has been in on-and-off devel
 *Status: Completed; Server Deactivated*<br>
 *Download Code: [GitHub repository](https://github.com/BaBingoBango/Friends-Afar)*
 
-During the COVID-19 pandemic and what was for me the hectic college applications season (I would not wish that on my worst enemy), the idea for an app that could help people feel more connected (and help my applications be more complete) came to me ~~in a profound dream where the code washed over me in beautiful waves~~ when I was sitting on the couch one day.
+During the COVID-19 pandemic and what was for me the hectic college applications season (I would not wish that on my worst enemy), the idea for an app that could help people feel more connected (and help my applications be more complete) came to me.
 
 Due to COVID-19 App Store regulations, it was never publicly released. For this same reason, I had to rename it "Friends Afar", which is totally not as good of a name as the original. While the server was functioning, the app allowed users to...
 
