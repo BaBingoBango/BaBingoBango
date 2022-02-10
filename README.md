@@ -2,7 +2,7 @@ Hello, I'm Ethan Marshall - nice to meet you! 👋
 
 *Optional: Imagine I'm giving you a firm handshake through the screen.*
 
-Thanks for visiting my page here on GitHub - it's where I've uploaded all the code for my personal programming projects and fun facts about myself available nowhere else!
+Thanks for visiting my page here on GitHub - it's where I've uploaded all the code for my [personal programming projects](https://github.com/BaBingoBango#-projects) and fun facts about myself available nowhere else! It's also where you can find my [contact information](https://github.com/BaBingoBango#-contact-information).
 
 > **Fun Fact No. 1**<br>
 > I don't like peanut butter. No, I'm not allergic. If this is too disturbing, please feel free to leave now and never
