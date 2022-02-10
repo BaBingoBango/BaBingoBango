@@ -75,7 +75,7 @@ What follows is a description of each of my projects here on GitHub. Feel free t
 *Download Code: [GitHub repository](https://github.com/BaBingoBango/Multiqueue)*<br>
 *Download App: [TestFlight link](https://testflight.apple.com/join/oJSdQDmo)*
 
-Have you ever given one person the power to DJ at a party or in the car? Their device alone is connected to the speaker system, giving them ultimate control over what music you will be forced to listen to (truly an awesome power not fit for one man alone). Seeing this as the unfair system it is, I created Multiqueue, which allows you to...
+Have you ever given one person the power to DJ at a party or in the car? Their device alone is connected to the speaker system, giving them ultimate control over what music you will be forced to listen to (truly an awesome power not fit for one person alone). Seeing this as the unfair system it is, I created Multiqueue, which allows you to...
 
  - Host a group music queue using your Apple Music subscription
  - Invite participant devices to send songs to your host device's queue
