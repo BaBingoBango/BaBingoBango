@@ -31,9 +31,6 @@ While I still have a lot to learn, from my education at Michigan and elsewhere, 
  - Xcode (Swift, C++)
  - NetBeans (Java)
  - Git, GitHub, and GitLab
- - ~~Writing error-free code~~
- - ~~Not becoming angry at my own code~~
- - ~~Remembering semicolons~~
  - Writing fun facts
 
 > **Fun Fact No. 2**<br>
@@ -60,7 +57,7 @@ Have you ever given one person the power to DJ at a party or in the car? Their d
  - Join a host device's queue to contribute to the group's music *(beta feature: no Apple Music subscription required!)*
  - Set time and song limits to keep too many Justin Bieber songs out of your party *(beta feature)*
 
-This way, the terrible power of being DJ is split amongst many and balance restored to group dynamics across the world. I hope to release this *literally* life-saving application on Apple's App Store soon!
+This way, the terrible power of being DJ is split amongst many and balance restored to group dynamics across the world. I hope to release this application on Apple's App Store soon!
 
 > **Fun Fact No. 3**<br>
 > I have at least one Justin Bieber song in my library. Again, if you feel you must leave at this time, I completely understand.
