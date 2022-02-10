@@ -31,7 +31,7 @@ In general, I'm a student of computer science, but more specifically interested 
  - Pokémon (my favorite is [Cosmog](https://www.pokemon.com/us/pokedex/cosmog)!)
 
 ## 🌱 Knowledge & Education
-I'm currently in my first year at the University of Michigan, Ann Arbor where I'm studying [Computer Science and Engineering](https://cse.engin.umich.edu) (oooh!) and the science of wearing just the right amount of layers in the turbulent Michigan climate.
+I'm currently in my first year at the University of Michigan, Ann Arbor where I'm studying [Computer Science and Engineering](https://cse.engin.umich.edu) and the science of wearing just the right amount of layers in the turbulent Michigan climate.
 
 While I still have a lot to learn, from my education at Michigan and elsewhere, I've come to have a grasp on the following technologies and programming languages! Unfortunately, I have yet to learn how to spell the word "unfortunately", which I looked up immediately before writing this.
 
