@@ -72,7 +72,7 @@ What follows is a description of each of my projects here on GitHub. Feel free t
 **Multiqueue**<br>
 *Platforms: iOS, iPadOS, macOS*<br>
 *Status: In Beta Testing*<br>
-*Download Code: [GitHub repository](https://github.com/BaBingoBango/Multiqueue)*<br>
+*Download Code: [GitHub repository (currrently private)](https://github.com/BaBingoBango/Multiqueue)*<br>
 *Download App: [TestFlight link](https://testflight.apple.com/join/oJSdQDmo)*
 
 Have you ever given one person the power to DJ at a party or in the car? Their device alone is connected to the speaker system, giving them ultimate control over what music you will be forced to listen to (truly an awesome power not fit for one person alone). Seeing this as the unfair system it is, I created Multiqueue, which allows you to...
@@ -92,7 +92,7 @@ This way, the terrible power of being DJ is split amongst many and balance resto
 **Neodex**<br>
 *Platforms: iOS, iPadOS, macOS*<br>
 *Status: In Development*<br>
-*Download Code: [GitHub repository](https://github.com/BaBingoBango/Neodex)*<br>
+*Download Code: [GitHub repository (currrently private)](https://github.com/BaBingoBango/Neodex)*<br>
 
 The Pokédex, [as defined by the fans](https://pokemon.fandom.com/wiki/Pok%C3%A9dex), is "an electronic device designed to catalogue and provide information regarding the various species of Pokémon featured in the Pokémon video game, anime and manga series". There are many Pokédex tools out there, but I believe mine offers the best offline Pokédex experience possible. It features...
 
@@ -110,7 +110,7 @@ This is my largest, most complex project by far and has been in on-and-off devel
 **Viruses Aren't Alive**<br>
 *Platforms: iOS*<br>
 *Status: Completed; Server Deactivated*<br>
-*Download Code: [GitHub repository](https://github.com/BaBingoBango/Friends-Afar)*
+*Download Code: [GitHub repository (currrently private)](https://github.com/BaBingoBango/Friends-Afar)*
 
 During the COVID-19 pandemic and what was for me the hectic college applications season (I would not wish that on my worst enemy), the idea for an app that could help people feel more connected (and help my applications be more complete) came to me.
 
@@ -131,7 +131,7 @@ The server has since been deactivated, but the experience helped me learn about 
 **StreakPal**<br>
 *Platforms: iOS, iPadOS*<br>
 *Status: Completed*<br>
-*Download Code: [GitHub repository](https://github.com/BaBingoBango/StreakPal)*<br>
+*Download Code: [GitHub repository (currrently private)](https://github.com/BaBingoBango/StreakPal)*<br>
 *Download App: [App Store link](https://apps.apple.com/app/streakpal/id1587647711)*
 
 While not my first ever app idea, this simple concept became my first-ever complete application and thus holds a special place in my heart and on my resume. ❤️
