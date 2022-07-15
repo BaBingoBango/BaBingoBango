@@ -91,8 +91,6 @@ Created during the COVID-19 pandemic, Friends Afar was developed to help people 
 
 StreakPal helps users of Snapchat's Snapstreaks feature maintain their streaks by offering daily reminder notifications, quick Snapchat open, and support for iOS 15+'s Time Sensitive!
 
-<br>
-
 <!---
 BaBingoBango/BaBingoBango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
