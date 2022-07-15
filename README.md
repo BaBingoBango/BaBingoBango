@@ -47,7 +47,7 @@ What follows is a description of each of my projects here on GitHub. Feel free t
 *Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
 *Status: Completed*<br>
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/One-Step-Ahead)*<br>
-*Download App: [App Store link](https://apps.apple.com/app/streakpal/id1587647711)*
+*Download App: [App Store link](https://apps.apple.com/us/app/one-step-ahead/id1620737001)*
 
 Using peer-to-peer networks, Multiqueue allows multiple Apple devices to contribute to a single device's Apple Music queue!
 
@@ -92,8 +92,8 @@ During the COVID-19 pandemic and what was for me the hectic college applications
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/StreakPal)*<br>
 *Download App: [App Store link](https://apps.apple.com/app/streakpal/id1587647711)*
 
-<br>
-<br>
+DESC!
+
 <br>
 
 <!---
