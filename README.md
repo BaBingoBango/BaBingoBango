@@ -1,6 +1,6 @@
 Hello, I'm Ethan Marshall - nice to meet you! 👋
 
-Thanks for visiting my page here on GitHub - it's where I've uploaded all the code for my [personal programming projects](https://github.com/BaBingoBango#-projects) and fun facts about myself available nowhere else! It's also where you can find my [contact information](https://github.com/BaBingoBango#-contact-information).
+Thanks for visiting my page here on GitHub - it's where I've uploaded all the code for my [personal programming projects](https://github.com/BaBingoBango#-projects)! It's also where you can find my [contact information](https://github.com/BaBingoBango#-contact-information).
 
 ## 👀 Interests
 In general, I'm interested in computer science, but more specifically interested in the following areas of technology:
