@@ -55,7 +55,7 @@ The original version of One Step Ahead was a winner of Apple’s 2022 Worldwide 
 
 <img src="https://user-images.githubusercontent.com/40375449/179138808-be144004-a76a-4a8a-abce-016774b42e11.png" alt="appIcon" width="60"/><br>
 **Multiqueue**<br>
-*Platforms: iOS, iPadOS, macOS*<br>
+*Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
 *Status: In Development*<br>
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/Multiqueue)*<br>
 
@@ -65,7 +65,7 @@ Using peer-to-peer networks, Multiqueue allows multiple Apple devices to contrib
 
 <img src="https://user-images.githubusercontent.com/40375449/179140439-80da7eb7-e0e2-4235-a979-3b56b4b7af32.png" alt="appIcon" width="60"/><br>
 **Neodex**<br>
-*Platforms: iOS, iPadOS, macOS*<br>
+*Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
 *Status: In Development*<br>
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/Neodex)*<br>
 
@@ -85,7 +85,7 @@ Created during the COVID-19 pandemic, Friends Afar was developed to help people 
 
 <img src="https://user-images.githubusercontent.com/40375449/179142887-4c4e3f13-38e2-48e7-be82-ceb616b09310.png" alt="appIcon" width="60"/><br>
 **StreakPal**<br>
-*Platforms: iOS, iPadOS*<br>
+*Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
 *Status: Completed*<br>
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/StreakPal)*<br>
 *Download App: [App Store link](https://apps.apple.com/app/streakpal/id1587647711)*
