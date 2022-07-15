@@ -38,8 +38,6 @@ If you identify with any of the following statements, you would be a great candi
 
 I've taken on several personal programming projects, both for learning purposes and being cool purposes. As the Swift language has been my learning tool for many years, my projects are almost 100% Swift.
 
-What follows is a description of each of my projects here on GitHub. Feel free to peruse the code, download the code, and laugh at my beginner mistakes!
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/40375449/179142511-1ea1f118-a142-417c-8483-5f4bc93d6b5e.png" alt="appIcon" width="60"/><br>
@@ -49,7 +47,9 @@ What follows is a description of each of my projects here on GitHub. Feel free t
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/One-Step-Ahead)*<br>
 *Download App: [App Store link](https://apps.apple.com/us/app/one-step-ahead/id1620737001)*
 
-Using peer-to-peer networks, Multiqueue allows multiple Apple devices to contribute to a single device's Apple Music queue!
+Put your drawing and deduction skills to the test  as you race to draw a mystery object before an AI trained on your failed attempts can learn to do it in this machine learning game!
+
+The original version of One Step Ahead was a winner of Apple’s 2022 Worldwide Developers Conference Swift Student Challenge!
 
 <br>
 
@@ -69,9 +69,7 @@ Using peer-to-peer networks, Multiqueue allows multiple Apple devices to contrib
 *Status: In Development*<br>
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/Neodex)*<br>
 
-A visual database of hundreds of Pokémon species, items, moves, Abilities, types, and natures, featuring worldwide stats, a comparison tool, and a teambuilder compatible with Pokémon Showdown!
-
-The Pokédex, [as defined by the fans](https://pokemon.fandom.com/wiki/Pok%C3%A9dex), is "an electronic device designed to catalogue and provide information regarding the various species of Pokémon featured in the Pokémon video game, anime and manga series". There are many Pokédex tools out there, but I believe mine offers the best offline Pokédex experience possible.
+A visual database of hundreds of Pokémon species, items, moves, Abilities, types, and natures, featuring worldwide stats, a comparison tool, and a teambuilder compatible with Pokémon Showdown - it is my implementation of a [Pokédex](https://pokemon.fandom.com/wiki/Pok%C3%A9dex) for Apple devices!
 
 <br>
 
@@ -81,7 +79,7 @@ The Pokédex, [as defined by the fans](https://pokemon.fandom.com/wiki/Pok%C3%A9
 *Status: Completed; Server Deactivated*<br>
 *Download Code: [GitHub repository](https://github.com/BaBingoBango/Friends-Afar)*
 
-During the COVID-19 pandemic and what was for me the hectic college applications season (I would not wish that on my worst enemy), the idea for an app that could help people feel more connected (and help my applications be more complete) came to me.
+Created during the COVID-19 pandemic, Viruses Aren't Alive was developed to help people feel more connected to one another by sending anonymous messages via a public database hosted online.
 
 <br>
 
@@ -92,7 +90,7 @@ During the COVID-19 pandemic and what was for me the hectic college applications
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/StreakPal)*<br>
 *Download App: [App Store link](https://apps.apple.com/app/streakpal/id1587647711)*
 
-DESC!
+StreakPal helps users of Snapchat's Snapstreaks feature maintain their streaks by offering daily reminder notifications, quick Snapchat open, and support for iOS 15+'s Time Sensitive!
 
 <br>
 
