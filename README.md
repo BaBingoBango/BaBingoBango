@@ -44,7 +44,7 @@ I've taken on several personal programming projects, both for learning purposes 
 *Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
 *Status: Completed*<br>
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/One-Step-Ahead)*<br>
-*Download App: [App Store link](https://apps.apple.com/us/app/one-step-ahead/id1620737001)*
+*Download App: [App Store page](https://apps.apple.com/us/app/one-step-ahead/id1620737001)*
 
 Put your drawing and deduction skills to the test  as you race to draw a mystery object before an AI trained on your failed attempts can learn to do it in this machine learning game!
 
@@ -87,7 +87,7 @@ Created during the COVID-19 pandemic, Friends Afar was developed to help people 
 *Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
 *Status: Completed*<br>
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/StreakPal)*<br>
-*Download App: [App Store link](https://apps.apple.com/app/streakpal/id1587647711)*
+*Download App: [App Store page](https://apps.apple.com/app/streakpal/id1587647711)*
 
 StreakPal helps users of Snapchat's Snapstreaks feature maintain their streaks by offering daily reminder notifications, quick Snapchat open, and support for iOS 15+'s Time Sensitive!
 
