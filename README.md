@@ -74,12 +74,12 @@ A visual database of hundreds of Pokémon species, items, moves, Abilities, type
 <br>
 
 <img src="https://user-images.githubusercontent.com/40375449/179142358-63e741bf-22b0-4c24-abb1-2d6ce0ad5be8.jpeg" alt="appIcon" width="60"/><br>
-**Viruses Aren't Alive**<br>
+**Friends Afar**<br>
 *Platforms: iOS*<br>
 *Status: Completed; Server Deactivated*<br>
 *Download Code: [GitHub repository](https://github.com/BaBingoBango/Friends-Afar)*
 
-Created during the COVID-19 pandemic, Viruses Aren't Alive was developed to help people feel more connected to one another by sending anonymous messages via a public database hosted online.
+Created during the COVID-19 pandemic, Friends Afar was developed to help people feel more connected to one another by sending anonymous messages via a public database hosted online.
 
 <br>
 
