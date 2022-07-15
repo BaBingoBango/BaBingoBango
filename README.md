@@ -75,7 +75,7 @@ A visual database of hundreds of Pokémon species, items, moves, Abilities, type
 
 <img src="https://user-images.githubusercontent.com/40375449/179142358-63e741bf-22b0-4c24-abb1-2d6ce0ad5be8.jpeg" alt="appIcon" width="60"/><br>
 **Friends Afar**<br>
-*Platforms: iOS*<br>
+*Platform: iOS*<br>
 *Status: Completed; Server Deactivated*<br>
 *Download Code: [GitHub repository](https://github.com/BaBingoBango/Friends-Afar)*
 
