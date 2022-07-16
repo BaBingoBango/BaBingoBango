@@ -62,6 +62,17 @@ Using peer-to-peer networks, Multiqueue allows multiple Apple devices to contrib
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/40375449/179339341-32fd44cc-a25c-4209-8d96-afad7a90c1ef.png" alt="appIcon" width="60"/><br>
+**Metrics for Product Zone**<br>
+*Platforms: iOS, iPadOS, macOS*<br>
+*Status: In Development*<br>
+*Browse Code: [GitHub repository](https://github.com/BaBingoBango/Metrics-for-Product-Zone)*<br>
+*App Store link coming soon!*
+
+StreakPal helps users of Snapchat's Snapstreaks feature maintain their streaks by offering daily reminder notifications, quick Snapchat open, and support for iOS 15+'s Time Sensitive!
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/40375449/179140439-80da7eb7-e0e2-4235-a979-3b56b4b7af32.png" alt="appIcon" width="60"/><br>
 **Neodex**<br>
 *Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
