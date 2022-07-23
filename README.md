@@ -67,7 +67,7 @@ Using peer-to-peer networks, Multiqueue allows multiple Apple devices to contrib
 *Platforms: iOS, iPadOS, macOS*<br>
 *Status: In Development*<br>
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/Metrics-for-Product-Zone)*<br>
-*Download App: [App Store Page](https://apps.apple.com/us/app/metrics-for-product-zone/id1581284514)*
+*Download App: [App Store page](https://apps.apple.com/us/app/metrics-for-product-zone/id1581284514)*
 
 Metrics helps keep track of and share the metrics commonly used to measure performance in the Product Zone of Apple Retail settings!
 
