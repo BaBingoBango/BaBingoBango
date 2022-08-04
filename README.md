@@ -52,7 +52,7 @@ The original version of One Step Ahead was a winner of Apple’s 2022 Worldwide 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/40375449/179138808-be144004-a76a-4a8a-abce-016774b42e11.png" alt="appIcon" width="60"/><br>
+<img src="https://user-images.githubusercontent.com/40375449/182772604-4ab08608-0f31-41af-844d-75cfcfa29383.png" alt="appIcon" width="60"/><br>
 **Multiqueue**<br>
 *Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
 *Status: In Development*<br>
@@ -62,7 +62,7 @@ Using peer-to-peer networks, Multiqueue allows multiple Apple devices to contrib
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/40375449/179339341-32fd44cc-a25c-4209-8d96-afad7a90c1ef.png" alt="appIcon" width="60"/><br>
+<img src="https://user-images.githubusercontent.com/40375449/182772693-77dd1386-8bf5-48d9-a877-7ab4a8fb8639.png" alt="appIcon" width="60"/><br>
 **Metrics for Product Zone**<br>
 *Platforms: iOS, iPadOS, macOS*<br>
 *Status: Completed*<br>
@@ -73,7 +73,7 @@ Metrics helps keep track of and share the metrics commonly used to measure perfo
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/40375449/179140439-80da7eb7-e0e2-4235-a979-3b56b4b7af32.png" alt="appIcon" width="60"/><br>
+<img src="https://user-images.githubusercontent.com/40375449/182772752-d1ac49b9-8d95-42fb-8a80-c319feb3285d.png" alt="appIcon" width="60"/><br>
 **Neodex**<br>
 *Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
 *Status: In Development*<br>
@@ -83,7 +83,7 @@ A visual database of hundreds of Pokémon species, items, moves, Abilities, type
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/40375449/179142358-63e741bf-22b0-4c24-abb1-2d6ce0ad5be8.jpeg" alt="appIcon" width="60"/><br>
+<img src="https://user-images.githubusercontent.com/40375449/182772782-1807a81f-d965-4ca7-b4d2-c92037b4e801.png" alt="appIcon" width="60"/><br>
 **Friends Afar**<br>
 *Platform: iOS*<br>
 *Status: Completed; Server Deactivated*<br>
@@ -93,7 +93,7 @@ Created during the COVID-19 pandemic, Friends Afar was developed to help people 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/40375449/179142887-4c4e3f13-38e2-48e7-be82-ceb616b09310.png" alt="appIcon" width="60"/><br>
+<img src="https://user-images.githubusercontent.com/40375449/182772821-c856f135-1eeb-48b5-9776-5712783d3797.png" alt="appIcon" width="60"/><br>
 **StreakPal**<br>
 *Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
 *Status: Completed*<br>
