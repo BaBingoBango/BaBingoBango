@@ -39,7 +39,7 @@ I've taken on several personal programming projects, both for learning purposes 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/40375449/179142511-1ea1f118-a142-417c-8483-5f4bc93d6b5e.png" alt="appIcon" width="60"/><br>
+<img src="https://user-images.githubusercontent.com/40375449/182772451-f79f85d9-38a6-4436-9028-b9c9edc5cbfe.png" alt="appIcon" width="60"/><br>
 **One Step Ahead**<br>
 *Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
 *Status: Completed*<br>
