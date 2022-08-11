@@ -54,7 +54,7 @@ The original version of One Step Ahead was a winner of Apple’s 2022 Worldwide 
 
 <img src="https://user-images.githubusercontent.com/40375449/182772604-4ab08608-0f31-41af-844d-75cfcfa29383.png" alt="appIcon" width="60"/><br>
 **Multiqueue**<br>
-*Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
+*Platforms: iOS, iPadOS*<br>
 *Status: Completed*<br>
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/Multiqueue)*<br>
 *Download App: [App Store page](https://apps.apple.com/us/app/multiqueue/id1604105691)*
@@ -65,7 +65,7 @@ Using peer-to-peer networks, Multiqueue allows multiple Apple devices to contrib
 
 <img src="https://user-images.githubusercontent.com/40375449/182772693-77dd1386-8bf5-48d9-a877-7ab4a8fb8639.png" alt="appIcon" width="60"/><br>
 **Metrics for Product Zone**<br>
-*Platforms: iOS, iPadOS, macOS*<br>
+*Platforms: iOS, iPadOS*<br>
 *Status: Completed*<br>
 *Browse Code: [GitHub repository](https://github.com/BaBingoBango/Metrics-for-Product-Zone)*<br>
 *Download App: [App Store page](https://apps.apple.com/us/app/metrics-for-product-zone/id1581284514)*
