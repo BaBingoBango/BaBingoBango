@@ -27,8 +27,6 @@ While I still have a lot to learn, from my education at Michigan and elsewhere, 
 
 ## 📫 Contact Information
 
-If you identify with any of the following statements, you would be a great candidate to look at my contact information!
-
 ✉️ Personal Email: ethanm265@yahoo.com<br>
 ✉️ School Email: ethanmar@umich.edu<br>
 📞 Phone: 313-605-9030<br>
