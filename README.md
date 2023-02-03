@@ -12,7 +12,7 @@ In general, I'm interested in computer science, but more specifically interested
  - Pokémon (my favorite is [Cosmog](https://www.pokemon.com/us/pokedex/cosmog)!)
 
 ## 🌱 Knowledge & Education
-This fall, I will be entering my second at the University of Michigan, Ann Arbor where I'm studying [Computer Science and Engineering](https://cse.engin.umich.edu) and the science of wearing just the right amount of layers in the turbulent Michigan climate.
+I am a sophomore at the University of Michigan, Ann Arbor where I'm studying [Computer Science and Engineering](https://cse.engin.umich.edu) and the science of wearing just the right amount of layers in the turbulent Michigan climate.
 
 While I still have a lot to learn, from my education at Michigan and elsewhere, I've come to have a grasp on the following technologies and programming languages!
 
