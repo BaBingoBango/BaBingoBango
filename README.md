@@ -1,9 +1,9 @@
 Hello, I'm Ethan Marshall - nice to meet you! 👋
 
-Thanks for visiting my page here on GitHub - it's where I've uploaded all the code for my [personal programming projects](https://github.com/BaBingoBango#-projects)! It's also where you can find my [contact information](https://github.com/BaBingoBango#-contact-information).
+Thanks for visiting my page here on GitHub - it's where I've uploaded all the code for my [coding projects](https://github.com/BaBingoBango#-projects)! It's also where you can find my [contact info](https://github.com/BaBingoBango#-contact-information).
 
 ## 👀 Interests
-In general, I'm interested in computer science, but more specifically interested in the following areas of technology:
+In general, I'm interested in computer science, but more specifically in the following areas:
 
  - Software Engineering
  - User Interface & User Experience Design
@@ -17,12 +17,9 @@ I am a sophomore at the University of Michigan, Ann Arbor where I'm studying [Co
 While I still have a lot to learn, from my education at Michigan and elsewhere, I've come to have a grasp on the following technologies and programming languages!
 
  - Apple Software Development Kits
- - Swift Programming
- - C++ Programming
- - Java Programming
- - Xcode (Swift, C++)
- - Visual Studio (C++)
- - NetBeans (Java)
+ - Xcode (Swift, C/C++)
+ - Visual Studio (C/C++)
+ - Visual Studio Code (Python)
  - Git, GitHub, and GitLab
 
 ## 📫 Contact Information
@@ -33,7 +30,7 @@ While I still have a lot to learn, from my education at Michigan and elsewhere, 
 
 ## 🖥 Projects
 
-I've taken on several personal programming projects, both for learning purposes and being cool purposes. As the Swift language has been my learning tool for many years, my projects are almost 100% Swift.
+I've taken on several coding projects, both for learning purposes and random purposes. I've always used Swift for learning, so a lot of my projects are Apple-focused.
 
 <br>
 
