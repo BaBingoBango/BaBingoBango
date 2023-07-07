@@ -1,60 +1,30 @@
-Hello, I'm Ethan Marshall - nice to meet you! 👋
+<img src="https://user-images.githubusercontent.com/40375449/182772451-f79f85d9-38a6-4436-9028-b9c9edc5cbfe.png" alt="appIcon" width="60"/><br>
+**Pixel Pursuit**<br>
+[More Details](https://github.com/BaBingoBango/One-Step-Ahead)
 
-Thanks for visiting my page here on GitHub - it's where I've uploaded all the code for my [coding projects](https://github.com/BaBingoBango#-projects)! It's also where you can find my [contact info](https://github.com/BaBingoBango#-contact-information).
+- Learn to draw a mystery object before an Core ML model trained on your attempts!
+- Winner of Apple’s [WWDC23 Swift Student Challenge](https://web.archive.org/web/20220405160208/https://developer.apple.com/wwdc22/swift-student-challenge/)!
 
-## 👀 Interests
-In general, I'm interested in computer science, but more specifically in the following areas:
+<img src="https://user-images.githubusercontent.com/40375449/182772451-f79f85d9-38a6-4436-9028-b9c9edc5cbfe.png" alt="appIcon" width="60"/><br>
+**CORE**<br>
+[More Details](https://github.com/BaBingoBango/One-Step-Ahead)
 
- - Software Engineering
- - User Interface & User Experience Design
- - Cross-Platform Software Solutions
- - Theory of Computing & Programming
- - Pokémon (my favorite is [Cosmog](https://www.pokemon.com/us/pokedex/cosmog)!)
-
-## 🌱 Knowledge & Education
-I am a sophomore at the University of Michigan, Ann Arbor where I'm studying [Computer Science and Engineering](https://cse.engin.umich.edu) and the science of wearing just the right amount of layers in the turbulent Michigan climate.
-
-While I still have a lot to learn, from my education at Michigan and elsewhere, I've come to have a grasp on the following technologies and programming languages!
-
- - Apple Software Development Kits
- - Xcode (Swift, C/C++)
- - Visual Studio (C/C++)
- - Visual Studio Code (Python)
- - Git, GitHub, and GitLab
-
-## 📫 Contact Information
-
-✉️ Personal Email: ethanm265@yahoo.com<br>
-✉️ School Email: ethanmar@umich.edu<br>
-📞 Phone: 313-605-9030<br>
-
-## 🖥 Projects
-
-I've taken on several coding projects, both for learning purposes and random purposes. I've always used Swift for learning, so a lot of my projects are Apple-focused.
-
-<br>
+- Learn to draw a mystery object before an Core ML model trained on your attempts!
+- Winner of Apple’s [WWDC22 Swift Student Challenge](https://web.archive.org/web/20220405160208/https://developer.apple.com/wwdc22/swift-student-challenge/)!
 
 <img src="https://user-images.githubusercontent.com/40375449/182772451-f79f85d9-38a6-4436-9028-b9c9edc5cbfe.png" alt="appIcon" width="60"/><br>
 **One Step Ahead**<br>
-*Platforms: iOS, iPadOS, macOS (Apple Silicon)*<br>
-*Status: Completed*<br>
-*Browse Code: [GitHub repository](https://github.com/BaBingoBango/One-Step-Ahead)*<br>
-*Download App: [App Store page](https://apps.apple.com/us/app/one-step-ahead/id1620737001)*
+[App Store](https://apps.apple.com/us/app/one-step-ahead/id1620737001) | [More Details](https://github.com/BaBingoBango/One-Step-Ahead)
 
-Put your drawing and deduction skills to the test  as you race to draw a mystery object before an AI trained on your failed attempts can learn to do it in this machine learning game!
-
-The original version of One Step Ahead was a winner of Apple’s 2022 Worldwide Developers Conference Swift Student Challenge!
-
-<br>
+- Learn to draw a mystery object before an Core ML model trained on your attempts!
+- Winner of Apple’s [WWDC22 Swift Student Challenge](https://web.archive.org/web/20220405160208/https://developer.apple.com/wwdc22/swift-student-challenge/)!
 
 <img src="https://user-images.githubusercontent.com/40375449/182772604-4ab08608-0f31-41af-844d-75cfcfa29383.png" alt="appIcon" width="60"/><br>
 **Multiqueue**<br>
-*Platforms: iOS, iPadOS*<br>
-*Status: Completed*<br>
-*Browse Code: [GitHub repository](https://github.com/BaBingoBango/Multiqueue)*<br>
-*Download App: [App Store page](https://apps.apple.com/us/app/multiqueue/id1604105691)*
+[App Store](https://apps.apple.com/us/app/multiqueue/id1604105691) | [More Details](https://github.com/BaBingoBango/Multiqueue)
 
-Using peer-to-peer networks, Multiqueue allows multiple Apple devices to contribute to a single device's Apple Music queue!
+- Expose your Apple Music queue to multiple devices or contribute to a friend's!
+- See real-time updates with CloudKit and push notifications.
 
 <br>
 
