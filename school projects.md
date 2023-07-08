@@ -4,10 +4,10 @@ These are projects I've done for class in the [CSE major](https://cse.engin.umic
 
 Due to the Honor Code, all the projects are set to private - but if you'd like to see any code, let me know!
 
-- [Programming and Introductory Data Structures (EECS 280)](https://github.com/BaBingoBango/BaBingoBango/edit/main/school%20projects.md#programming-and-introductory-data-structures-eecs-280)
-- [Data Structures and Algorithms (EECS 281)](https://github.com/BaBingoBango/BaBingoBango/edit/main/school%20projects.md#data-structures-and-algorithms-eecs-281)
-- [Intro to Computer Organization (EECS 370)](https://github.com/BaBingoBango/BaBingoBango/edit/main/school%20projects.md#intro-to-computer-organization-eecs-370)
-- [Intro to Computer Forensics (EECS 388)](https://github.com/BaBingoBango/BaBingoBango/edit/main/school%20projects.md#intro-to-computer-forensics-eecs-388)
+- [Programming and Introductory Data Structures (EECS 280)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#programming-and-introductory-data-structures-eecs-280)
+- [Data Structures and Algorithms (EECS 281)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#data-structures-and-algorithms-eecs-281)
+- [Intro to Computer Organization (EECS 370)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#intro-to-computer-organization-eecs-370)
+- [Intro to Computer Forensics (EECS 388)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#intro-to-computer-forensics-eecs-388)
 
 ## Programming and Introductory Data Structures ([EECS 280](https://eecs280.org))
 
