@@ -1,4 +1,4 @@
-# 💻 personal projects! 🖥️
+# 💻 personal projects
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/38aad2c2-ac58-4186-922e-8b67ace53f6c" alt="Pixel Pursuit app icon" width="60"/><br>
 **Pixel Pursuit**<br>
