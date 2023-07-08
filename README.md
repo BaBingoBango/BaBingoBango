@@ -3,7 +3,7 @@ If you'd like to contact me, check out the sidebar or the emails below! I would 
 
 💌 ethanm938@gmail.com<br>✉️ ethanmar@umich.edu
 
-If you'd like to check out my projects, see below for what I've done on my own and what I've done through [CSE at the University of Michigan](https://cse.engin.umich.edu)!
+If you'd like to check out my projects, see below for what I've done on my own and what I've done for the [CSE major at the University of Michigan](https://cse.engin.umich.edu)!
 
 ### ⭐️ [Personal Projects](https://github.com/BaBingoBango/BaBingoBango/blob/main/personal%20projects.md)<br><br>📚 [School Projects](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md)
 
