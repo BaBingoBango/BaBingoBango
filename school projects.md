@@ -7,7 +7,7 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 - [Programming and Introductory Data Structures (EECS 280)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#programming-and-introductory-data-structures-eecs-280)
 - [Data Structures and Algorithms (EECS 281)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#data-structures-and-algorithms-eecs-281)
 - [Intro to Computer Organization (EECS 370)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#intro-to-computer-organization-eecs-370)
-- [Intro to Computer Forensics (EECS 388)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#intro-to-computer-forensics-eecs-388)
+- [Intro to Computer Security (EECS 388)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#intro-to-computer-forensics-eecs-388)
 
 ## Programming and Introductory Data Structures ([EECS 280](https://eecs280.org))
 
@@ -73,7 +73,7 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 **Cache Simulator** ([EECS 370 Project 4](https://eecs370.github.io/project_4_spec/))<br>
 🗄️ Simulate the operation of an LC2K CPU cache!
 
-## Intro to Computer Forensics ([EECS 388](https://eecs388.org))
+## Intro to Computer Security ([EECS 388](https://eecs388.org))
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/df726867-7fa7-4d0a-8336-5760e4fb76de" alt="Cryptography Exploiter app icon" width="60"/><br>
 **Cryptography Exploiter** ([EECS 388 Project 1](https://eecs388.org/projects/crypto.html))<br>
