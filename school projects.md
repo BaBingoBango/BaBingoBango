@@ -48,3 +48,22 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 **Graph Analyzer** ([EECS 281 Project 4](https://github.com/BaBingoBango/BaBingoBango/files/11987485/Project.4.Directions.pdf))<br>
 🌳 Calculates a minimum spanning tree and<br>
 🧑‍💼 Traveling Salesman solutions for graphs!
+
+## Intro to Computer Organization ([EECS 370](https://eecs370.github.io))
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/ddc5b527-407e-4396-b7c1-f0edb8e462c4" alt="LC2K Assembly app icon" width="60"/><br>
+**LC2K Assembly** ([EECS 370 Project 1](https://eecs370.github.io/project_1_spec/))<br>
+🔨 Assemble and simulate LC2K assembly code!<br>
+✖️ Multiply two numbers all in LC2K assembly!
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/37cab6e3-23a2-49ac-802a-5155d371b326" alt="Combination Calculator app icon" width="60"/><br>
+**Combination Calculator** ([EECS 370 Project 2](https://web.archive.org/web/20221224062022/https://eecs370.github.io/project_2_spec/))<br>
+🧮 Calculate mathematical combinations in LC2K assembly!
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/8f76eb68-03bf-4794-903c-66c70ed8ca5b" alt="Pipeline Simulator app icon" width="60"/><br>
+**Pipleine Simulator** ([EECS 370 Project 3](https://eecs370.github.io/project_3_spec/))<br>
+🎛️ Simulate the operation of an pipelined LC2K processor!
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/6bf5f8fb-419c-4bd6-bb3e-7c1cab0944a0" alt="LC2K Assembly app icon" width="60"/><br>
+**Cache Simulator** ([EECS 370 Project 4](https://eecs370.github.io/project_4_spec/))<br>
+🗄️ Simulate the operation of an LC2K CPU cache!
