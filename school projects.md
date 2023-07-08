@@ -4,6 +4,11 @@ These are projects I've done for class in the [CSE major](https://cse.engin.umic
 
 Due to the Honor Code, all the projects are set to private - but if you'd like to see any code, let me know!
 
+- [Programming and Introductory Data Structures (EECS 280)](https://github.com/BaBingoBango/BaBingoBango/edit/main/school%20projects.md#programming-and-introductory-data-structures-eecs-280)
+- [Data Structures and Algorithms (EECS 281)](https://github.com/BaBingoBango/BaBingoBango/edit/main/school%20projects.md#data-structures-and-algorithms-eecs-281)
+- [Intro to Computer Organization (EECS 370)](https://github.com/BaBingoBango/BaBingoBango/edit/main/school%20projects.md#intro-to-computer-organization-eecs-370)
+- [Intro to Computer Forensics (EECS 388)](https://github.com/BaBingoBango/BaBingoBango/edit/main/school%20projects.md#intro-to-computer-forensics-eecs-388)
+
 ## Programming and Introductory Data Structures ([EECS 280](https://eecs280.org))
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/5c6c8a2b-d04f-4478-b937-26c66a87223c" alt="Statistics Analyzer app icon" width="60"/><br>
@@ -67,3 +72,25 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/6bf5f8fb-419c-4bd6-bb3e-7c1cab0944a0" alt="LC2K Assembly app icon" width="60"/><br>
 **Cache Simulator** ([EECS 370 Project 4](https://eecs370.github.io/project_4_spec/))<br>
 🗄️ Simulate the operation of an LC2K CPU cache!
+
+## Intro to Computer Forensics ([EECS 388](https://eecs388.org))
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/df726867-7fa7-4d0a-8336-5760e4fb76de" alt="Cryptography Exploiter app icon" width="60"/><br>
+**Cryptography Exploiter** ([EECS 388 Project 1](https://eecs388.org/projects/crypto.html))<br>
+🔐 Perform length extension, hash collision, padding oracle, and RSA signature forgery attacks!
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/9cbdb48b-caa8-4692-8333-0a05d0a43091" alt="Web Exploiter app icon" width="60"/><br>
+**Web Exploiter** ([EECS 388 Project 2](https://eecs388.org/projects/web.html))<br>
+🌎 Perform SQL injection, cross-site scripting, and cross-site request forgery!
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/a967846c-64a4-4151-9509-64d0c6b87495" alt="Network Exploiter app icon" width="60"/><br>
+**Network Exploiter** ([EECS 388 Project 3](https://eecs388.org/projects/networking.html))<br>
+🛜 Generate certificates, query DNS, and generate TOTP codes!
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/ae5a0516-823f-4daa-aa75-96ebfa0d4786" alt="Control Flow Exploiter app icon" width="60"/><br>
+**Control Flow Exploiter** ([EECS 388 Project 4](https://eecs388.org/projects/appsec.html))<br>
+🔀 Perform various types of buffer overflow attacks on Python programs!
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/c95936e0-b57b-4341-8613-fc60645d37f5" alt="Forensics Investigation app icon" width="60"/><br>
+**Forensics Investigation** ([EECS 388 Project 5](https://eecs388.org/projects/forensics.html))<br>
+🕵️ Review the case of the whistleblower Leslie, including her hard drive and remote websites!
