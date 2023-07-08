@@ -2,7 +2,7 @@
 
 These are projects I've done outside of classes, going back quite a while - not all of them are complete! :)
 
-<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/38aad2c2-ac58-4186-922e-8b67ace53f6c" alt="Pixel Pursuit app icon" width="60"/><br>
+[<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/38aad2c2-ac58-4186-922e-8b67ace53f6c" alt="Pixel Pursuit app icon" width="60"/>](https://github.com/BaBingoBango/Pixel-Pursuit)<br>
 **Pixel Pursuit**<br>
 [More Details](https://github.com/BaBingoBango/Pixel-Pursuit)<br>
 🔍 Uncover a digital crime scene and investigate a mysterious (alleged) thief in this AR game themed around computer forensics!<br>
