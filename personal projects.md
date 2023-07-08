@@ -1,3 +1,7 @@
+# ⭐️ Personal Projects
+
+These are projects I've done outside of classes, going back quite a while - not all of them are complete! :)
+
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/38aad2c2-ac58-4186-922e-8b67ace53f6c" alt="Pixel Pursuit app icon" width="60"/><br>
 **Pixel Pursuit**<br>
 [More Details](https://github.com/BaBingoBango/Pixel-Pursuit)<br>
