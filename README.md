@@ -1,53 +1,50 @@
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/38aad2c2-ac58-4186-922e-8b67ace53f6c" alt="Pixel Pursuit app icon" width="60"/><br>
 **Pixel Pursuit**<br>
 [More Details](https://github.com/BaBingoBango/Pixel-Pursuit)
-
 - Uncover a digital crime scene and investigate a mysterious (alleged) thief in this AR game themed around computer forensics!
 - A winner of Apple’s [WWDC23 Swift Student Challenge](https://web.archive.org/web/20230404002347/https://developer.apple.com/wwdc23/swift-student-challenge/)!
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/bad1a550-000f-4c02-b259-593abab8ef84" alt="CORE app icon" width="60"/><br>
 **CORE**<br>
 [More Details](https://github.com/BaBingoBango/One-Step-Ahead)
-
+- Create and publish custom research studies using Apple ResearchKit!
+- Find and participate in studies using the Discover system's matchmaking!
 - The 1st place winner of the [2022 Michigan Ross Business+Tech Innovation Jam](https://www.linkedin.com/posts/michigan-ross-business-tech_nocode-uofm-michigan-activity-6999099758757732352-F25F?utm_source=share&utm_medium=member_desktop)!
 
 <img src="https://user-images.githubusercontent.com/40375449/182772451-f79f85d9-38a6-4436-9028-b9c9edc5cbfe.png" alt="appIcon" width="60"/><br>
 **One Step Ahead**<br>
 [App Store](https://apps.apple.com/us/app/one-step-ahead/id1620737001) | [More Details](https://github.com/BaBingoBango/One-Step-Ahead)
-
-- Learn to draw a mystery object before an Core ML model trained on your attempts!
+- Follow clues to draw a mystery object before an Core ML model trained on your attempts can do it!
 - A winner of Apple’s [WWDC22 Swift Student Challenge](https://web.archive.org/web/20220405160208/https://developer.apple.com/wwdc22/swift-student-challenge/)!
 
 <img src="https://user-images.githubusercontent.com/40375449/182772604-4ab08608-0f31-41af-844d-75cfcfa29383.png" alt="appIcon" width="60"/><br>
 **Multiqueue**<br>
 [App Store](https://apps.apple.com/us/app/multiqueue/id1604105691) | [More Details](https://github.com/BaBingoBango/Multiqueue)
-
-- Expose your Apple Music queue to multiple devices or contribute to a friend's!
-- See real-time updates with CloudKit and push notifications.
+- Contribute to a friend's Apple Music queue or open up your own!
+- ...or wait for iOS 17 when this [feature comes to SharePlay](https://9to5mac.com/2023/06/30/ios-17-carplay-apple-music-shareplay/#:~:text=On%20the%20Apple%20Music%20Now,to%20join%20your%20SharePlay%20session.) :)
 
 <img src="https://user-images.githubusercontent.com/40375449/182772693-77dd1386-8bf5-48d9-a877-7ab4a8fb8639.png" alt="appIcon" width="60"/><br>
 **Metrics for Product Zone**<br>
 [App Store](https://apps.apple.com/us/app/metrics-for-product-zone/id1581284514) | [More Details](https://github.com/BaBingoBango/Metrics-for-Product-Zone)
-
-- Metrics helps keep track of and share the metrics commonly used to measure performance in the Product Zone of Apple Retail settings!
+- Track your Apple Retail sales metrics and view historial stats!
+- Record on the go with the Apple Watch app!
 
 <img src="https://user-images.githubusercontent.com/40375449/182772752-d1ac49b9-8d95-42fb-8a80-c319feb3285d.png" alt="appIcon" width="60"/><br>
 **Neodex**<br>
 [More Details](https://github.com/BaBingoBango/Neodex)
-
-- A visual database of hundreds of Pokémon species, items, moves, Abilities, types, and natures, featuring worldwide stats, a comparison tool, and a teambuilder compatible with Pokémon Showdown - it is my implementation of a [Pokédex](https://pokemon.fandom.com/wiki/Pok%C3%A9dex) for Apple devices!
+- Explore Pokémon species, items, moves, Abilities, types, and natures in a [visual database](https://pokemon.fandom.com/wiki/Pok%C3%A9dex)!
+- Visually compare Pokémon and build the perfect Showdown-format team!
 
 <img src="https://user-images.githubusercontent.com/40375449/182772782-1807a81f-d965-4ca7-b4d2-c92037b4e801.png" alt="appIcon" width="60"/><br>
 **Friends Afar**<br>
 [More Details](https://github.com/BaBingoBango/Friends-Afar)
-
 - Created during the COVID-19 pandemic, Friends Afar was developed to help people feel more connected to one another by sending anonymous messages via a public database hosted online.
 
 <img src="https://user-images.githubusercontent.com/40375449/182772821-c856f135-1eeb-48b5-9776-5712783d3797.png" alt="appIcon" width="60"/><br>
 **StreakPal**<br>
 [App Store](https://apps.apple.com/app/streakpal/id1587647711) | [More Details](https://github.com/BaBingoBango/StreakPal)
-
-- StreakPal helps users of Snapchat's Snapstreaks feature maintain their streaks by offering daily reminder notifications, quick Snapchat open, and support for iOS 15+'s Time Sensitive!
+- Set reminders for Snapchat streaks and receive push notifications to open Snapchat with a tap!
+- Mark notifications as Time Sensitive for an extra push!
 
 <!---
 BaBingoBango/BaBingoBango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
