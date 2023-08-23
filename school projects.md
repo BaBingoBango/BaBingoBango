@@ -39,7 +39,7 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/0f91b3a1-1a47-474b-b236-baf592e582d1" alt="Maze Solver app icon" width="60"/><br>
 **Maze Solver** ([EECS 281 Project 1](https://github.com/BaBingoBango/BaBingoBango/files/11987377/Project.1.Directions.pdf))<br>
-🗺️ Navigate through Mario-inspired castle maze using BFS and DFS!
+🗺️ Navigate through Mario-inspired castle mazes using BFS and DFS!
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/96075c92-6356-4395-a7ec-9761cb993e17" alt="Zombie Game System app icon" width="60"/><br>
 **Zombie Game System** ([EECS 281 Project 2](https://github.com/BaBingoBango/BaBingoBango/files/11987483/Project.2.Directions.pdf))<br>
