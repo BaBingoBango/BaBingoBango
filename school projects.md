@@ -8,6 +8,7 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 - [Data Structures and Algorithms (EECS 281)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#data-structures-and-algorithms-eecs-281)
 - [Intro to Computer Organization (EECS 370)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#intro-to-computer-organization-eecs-370)
 - [Intro to Computer Security (EECS 388)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#intro-to-computer-forensics-eecs-388)
+- [Web Systems (EECS 485)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#web-systems-eecs-485)
 
 ## Programming and Introductory Data Structures ([EECS 280](https://eecs280.org))
 
@@ -94,3 +95,10 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/c95936e0-b57b-4341-8613-fc60645d37f5" alt="Forensics Investigation app icon" width="60"/><br>
 **Forensics Investigation** ([EECS 388 Project 5](https://eecs388.org/projects/forensics.html))<br>
 🕵️ Review the case of the whistleblower Leslie, including her hard drive and remote websites!
+
+## Web Systems ([EECS 485](https://eecs485.org))
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/ddc5b527-407e-4396-b7c1-f0edb8e462c4" alt="LC2K Assembly app icon" width="60"/><br>
+**Static Instagram Clone** ([EECS 485 Project 1](https://eecs485staff.github.io/p1-insta485-static/))<br>
+📝 Browse an Instagram clone made of hand-coded HTML!<br>
+⚡️ Generate custom versions of the clone using Jinja2 templates!
