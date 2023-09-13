@@ -98,7 +98,7 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 
 ## Web Systems ([EECS 485](https://eecs485.org))
 
-<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/ddc5b527-407e-4396-b7c1-f0edb8e462c4" alt="LC2K Assembly app icon" width="60"/><br>
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/24c4ed2f-03f9-4f3b-9321-370a179785e5" alt="Static Instagram Clone app icon" width="60"/><br>
 **Static Instagram Clone** ([EECS 485 Project 1](https://eecs485staff.github.io/p1-insta485-static/))<br>
 📝 Browse an Instagram clone made of hand-coded HTML!<br>
 ⚡️ Generate custom versions of the clone using Jinja2 templates!
