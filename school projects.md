@@ -98,7 +98,11 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 
 ## Web Systems ([EECS 485](https://eecs485.org))
 
-<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/4699e1fa-9ad0-45b1-8277-6591d8fd5d04" width="60"/><br>
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/e7197ec6-bef9-44bc-9f13-e355004a434d" width="60"/><br>
 **Static Instagram Clone** ([EECS 485 Project 1](https://eecs485staff.github.io/p1-insta485-static/))<br>
 📝 Browse an Instagram clone made of hand-coded HTML!<br>
 ⚡️ Generate custom versions of the clone using Jinja2 templates!
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
+**Server-Side Dynamic Instagram Clone** ([EECS 485 Project 2](https://eecs485staff.github.io/p2-insta485-serverside/))<br>
+🚧 This project is under construction!
