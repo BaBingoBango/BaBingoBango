@@ -106,3 +106,7 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
 **Server-Side Dynamic Instagram Clone** ([EECS 485 Project 2](https://eecs485staff.github.io/p2-insta485-serverside/))<br>
 🚧 This project is under construction!
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
+**Client-Side Dynamic Instagram Clone** ([EECS 485 Project 3](https://eecs485staff.github.io/p3-insta485-clientside/))<br>
+🚧 This project is under construction!
