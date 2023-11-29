@@ -114,3 +114,7 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
 **MapReduce Implementation** ([EECS 485 Project 4](https://eecs485staff.github.io/p4-mapreduce/))<br>
 🚧 This project is under construction!
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
+**Search Engine** ([EECS 485 Project 5](https://eecs485staff.github.io/p5-search-engine/))<br>
+🚧 This project is under construction!
