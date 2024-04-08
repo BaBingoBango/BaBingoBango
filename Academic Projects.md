@@ -122,17 +122,19 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/6da9045b-44e5-41ac-9eec-a988f02618ea" width="60"/><br>
 **Search Engine** ([EECS 485 Project 5](https://eecs485staff.github.io/p5-search-engine/))<br>
-🔎 Use a scalable search engine on a set of real web links!<br>
+🔍 Use a scalable search engine on a set of real web links!<br>
 🎚️ Adjust the PageRank weight to see how results change!
 
 ## Human-Centered Software Design and Development (EECS 497)
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/098db09d-e629-491d-b4aa-5a9ca8df19f0" width="60"/><br>
 **Social Media Investigator**<br>
-🚧 This project is under construction!
+🔦 A web-based tool for law enforcement to more quickly find evidence online!<br>
+💬 Examines multiple social networks to find face and location matches!
 
 ## Introduction to the Social Consequences of Computing ([EECS 298](https://eecs298.github.io))
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/b2f0c85c-5ee3-46c3-aa63-fa416a6cfbbb" width="60"/><br>
 **SCLAP**<br>
-🚧 This project is under construction!
+📆 "Schedule Long-Term Action Planner" :)<br>
+🎓 Enter your credits and major to receieve options for a long-term degree plan!
