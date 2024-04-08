@@ -9,6 +9,7 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 - [Intro to Computer Organization (EECS 370)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#intro-to-computer-organization-eecs-370)
 - [Intro to Computer Security (EECS 388)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#intro-to-computer-forensics-eecs-388)
 - [Web Systems (EECS 485)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#web-systems-eecs-485)
+- [Computer Vision (EECS 442)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#computer-vision-eecs-442)
 - [Human-Centered Software Design and Development (EECS 497)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#human-centered-software-design-and-development-eecs-497)
 - [Introduction to the Social Consequences of Computing (EECS 298)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#introduction-to-the-social-consequences-of-computing-eecs-298)
 
