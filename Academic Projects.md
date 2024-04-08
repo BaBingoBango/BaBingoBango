@@ -108,19 +108,22 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
 **Server-Side Dynamic Instagram Clone** ([EECS 485 Project 2](https://eecs485staff.github.io/p2-insta485-serverside/))<br>
 📝 Browse an Instagram clone made of dynamic code arriving from a server!<br>
-❤️ Adds likes and comments to posts!<br>
+❤️ Adds likes and comments to posts!
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/2c0f3b0c-c5a5-47d0-a183-4dcef294e828" width="60"/><br>
 **Client-Side Dynamic Instagram Clone** ([EECS 485 Project 3](https://eecs485staff.github.io/p3-insta485-clientside/))<br>
-🚧 This project is under construction!
+📝 Browse an Instagram clone using modern React design and REST APIs!<br>
+💖 Like and comment on posts with instant feedback!
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/05e2e886-a5f6-4006-aff1-957809100f97" width="60"/><br>
 **MapReduce Implementation** ([EECS 485 Project 4](https://eecs485staff.github.io/p4-mapreduce/))<br>
-🚧 This project is under construction!
+🐍 Run MapReduce jobs via a custom Python implementation!<br>
+🔨 Execute jobs on a multi-stage pipeline inspired by Google's original paper!
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/6da9045b-44e5-41ac-9eec-a988f02618ea" width="60"/><br>
 **Search Engine** ([EECS 485 Project 5](https://eecs485staff.github.io/p5-search-engine/))<br>
-🚧 This project is under construction!
+🔎 Use a scalable search engine on a set of real web links!<br>
+🎚️ Adjust the PageRank weight to see how results change!
 
 ## Human-Centered Software Design and Development (EECS 497)
 
