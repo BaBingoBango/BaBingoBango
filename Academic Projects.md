@@ -1,14 +1,16 @@
-# 📚 School Projects
+# 📚 Academic Projects
 
-These are projects I've done for class in the [CSE major](https://cse.engin.umich.edu) at the University of Michigan!
+These are projects I've done for coursework in the [CSE major](https://cse.engin.umich.edu) at the University of Michigan!
 
 Due to the Honor Code, all the projects are set to private - but if you'd like to see any code, let me know!
 
-- [Programming and Introductory Data Structures (EECS 280)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#programming-and-introductory-data-structures-eecs-280)
-- [Data Structures and Algorithms (EECS 281)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#data-structures-and-algorithms-eecs-281)
-- [Intro to Computer Organization (EECS 370)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#intro-to-computer-organization-eecs-370)
-- [Intro to Computer Security (EECS 388)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#intro-to-computer-forensics-eecs-388)
-- [Web Systems (EECS 485)](https://github.com/BaBingoBango/BaBingoBango/blob/main/school%20projects.md#web-systems-eecs-485)
+- [Programming and Introductory Data Structures (EECS 280)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#programming-and-introductory-data-structures-eecs-280)
+- [Data Structures and Algorithms (EECS 281)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#data-structures-and-algorithms-eecs-281)
+- [Intro to Computer Organization (EECS 370)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#intro-to-computer-organization-eecs-370)
+- [Intro to Computer Security (EECS 388)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#intro-to-computer-forensics-eecs-388)
+- [Web Systems (EECS 485)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#web-systems-eecs-485)
+- [Human-Centered Software Design and Development (EECS 497)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#web-systems-eecs-485)
+- [Introduction to the Social Consequences of Computing (EECS 298)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#web-systems-eecs-485)
 
 ## Programming and Introductory Data Structures ([EECS 280](https://eecs280.org))
 
@@ -117,4 +119,16 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
 **Search Engine** ([EECS 485 Project 5](https://eecs485staff.github.io/p5-search-engine/))<br>
+🚧 This project is under construction!
+
+## Human-Centered Software Design and Development ([EECS 497](https://eecs485.org))
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
+**Server-Side Dynamic Instagram Clone** ([EECS 485 Project 2](https://eecs485staff.github.io/p2-insta485-serverside/))<br>
+🚧 This project is under construction!
+
+## Introduction to the Social Consequences of Computing ([EECS 298](https://eecs485.org))
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
+**Server-Side Dynamic Instagram Clone** ([EECS 485 Project 2](https://eecs485staff.github.io/p2-insta485-serverside/))<br>
 🚧 This project is under construction!
