@@ -5,9 +5,9 @@ If you'd like to contact me, check out the sidebar or the emails below! I would 
 
 If you'd like to check out my projects, see below for what I've done on my own and what I've done for the [CSE major at the University of Michigan](https://cse.engin.umich.edu)!
 
-[<img width="450" alt="Personal Projects Button" src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/d5f0d8c3-8038-499a-9215-3f1b46c7ef77">]([link-to-your-personal-projects](https://github.com/BaBingoBango/BaBingoBango/blob/main/Personal%20Projects.md))
+[<img width="450" alt="Personal Projects Button" src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/d5f0d8c3-8038-499a-9215-3f1b46c7ef77">](https://github.com/BaBingoBango/BaBingoBango/blob/main/Personal%20Projects.md)
 
-[<img width="450" alt="Academic Projects Button" src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/03ef8b7e-d46d-4eca-b602-7961539573a6">]([link-to-your-academic-projects](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md))
+[<img width="450" alt="Academic Projects Button" src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/03ef8b7e-d46d-4eca-b602-7961539573a6">](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md)
 
 <!---
 BaBingoBango/BaBingoBango is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
