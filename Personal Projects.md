@@ -5,7 +5,8 @@ These are projects I've done outside of classes, going back quite a while - not 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/bf3f341a-6e36-4007-84d1-6449aea723db" alt="The Herd app icon" width="60"/><br>
 **The Herd**<br>
 [More Details](https://github.com/BaBingoBango/The-Herd)<br>
-🔍 ??????
+📍 View posts of people in your area in this clone of Yik Yak!<br>
+✨ Explore additonal features like group chats and location changing!
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/38aad2c2-ac58-4186-922e-8b67ace53f6c" alt="Pixel Pursuit app icon" width="60"/><br>
 **Pixel Pursuit**<br>
