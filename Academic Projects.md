@@ -125,6 +125,13 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 🔍 Use a scalable search engine on a set of real web links!<br>
 🎚️ Adjust the PageRank weight to see how results change!
 
+## Computer Vision (EECS 442)
+
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/259b3c11-9ffc-4f73-bf3b-bd8af808710d" width="60"/><br>
+**Yojo**<br>
+🧘 The yoga dojo! Teach a machine learning model yoga poses and repeat them to get an accuracy score!<br>
+📸 Use your Apple device's camera to record poses and watch an action classifier report back scores!
+
 ## Human-Centered Software Design and Development (EECS 497)
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/098db09d-e629-491d-b4aa-5a9ca8df19f0" width="60"/><br>
