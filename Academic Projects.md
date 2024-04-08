@@ -9,8 +9,8 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 - [Intro to Computer Organization (EECS 370)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#intro-to-computer-organization-eecs-370)
 - [Intro to Computer Security (EECS 388)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#intro-to-computer-forensics-eecs-388)
 - [Web Systems (EECS 485)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#web-systems-eecs-485)
-- [Human-Centered Software Design and Development (EECS 497)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#web-systems-eecs-485)
-- [Introduction to the Social Consequences of Computing (EECS 298)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#web-systems-eecs-485)
+- [Human-Centered Software Design and Development (EECS 497)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#human-centered-software-design-and-development-eecs-497)
+- [Introduction to the Social Consequences of Computing (EECS 298)](https://github.com/BaBingoBango/BaBingoBango/blob/main/Academic%20Projects.md#introduction-to-the-social-consequences-of-computing-eecs-298)
 
 ## Programming and Introductory Data Structures ([EECS 280](https://eecs280.org))
 
@@ -107,28 +107,29 @@ Due to the Honor Code, all the projects are set to private - but if you'd like t
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
 **Server-Side Dynamic Instagram Clone** ([EECS 485 Project 2](https://eecs485staff.github.io/p2-insta485-serverside/))<br>
-🚧 This project is under construction!
+📝 Browse an Instagram clone made of dynamic code arriving from a server!<br>
+❤️ Adds likes and comments to posts!<br>
 
-<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/2c0f3b0c-c5a5-47d0-a183-4dcef294e828" width="60"/><br>
 **Client-Side Dynamic Instagram Clone** ([EECS 485 Project 3](https://eecs485staff.github.io/p3-insta485-clientside/))<br>
 🚧 This project is under construction!
 
-<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/05e2e886-a5f6-4006-aff1-957809100f97" width="60"/><br>
 **MapReduce Implementation** ([EECS 485 Project 4](https://eecs485staff.github.io/p4-mapreduce/))<br>
 🚧 This project is under construction!
 
-<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/6da9045b-44e5-41ac-9eec-a988f02618ea" width="60"/><br>
 **Search Engine** ([EECS 485 Project 5](https://eecs485staff.github.io/p5-search-engine/))<br>
 🚧 This project is under construction!
 
-## Human-Centered Software Design and Development ([EECS 497](https://eecs485.org))
+## Human-Centered Software Design and Development (EECS 497)
 
-<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
-**Server-Side Dynamic Instagram Clone** ([EECS 485 Project 2](https://eecs485staff.github.io/p2-insta485-serverside/))<br>
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/098db09d-e629-491d-b4aa-5a9ca8df19f0" width="60"/><br>
+**Social Media Investigator**<br>
 🚧 This project is under construction!
 
-## Introduction to the Social Consequences of Computing ([EECS 298](https://eecs485.org))
+## Introduction to the Social Consequences of Computing ([EECS 298](https://eecs298.github.io))
 
-<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/11884928-69a7-4762-9af3-2cfeb5eb1741" width="60"/><br>
-**Server-Side Dynamic Instagram Clone** ([EECS 485 Project 2](https://eecs485staff.github.io/p2-insta485-serverside/))<br>
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/b2f0c85c-5ee3-46c3-aa63-fa416a6cfbbb" width="60"/><br>
+**SCLAP**<br>
 🚧 This project is under construction!
