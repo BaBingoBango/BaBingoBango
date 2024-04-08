@@ -2,6 +2,14 @@
 
 These are projects I've done outside of classes, going back quite a while - not all of them are complete! :)
 
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/bad1a550-000f-4c02-b259-593abab8ef84" alt="CORE app icon" width="60"/><br>
+**CORE**<br>
+🔬 Create and publish custom research studies on the web and using our apps!<br>
+🔭 Find and participate in studies using the Discover system's matchmaking!<br>
+🏆 The 1st place winner of the [2022 Michigan Ross Business+Tech Innovation Jam](https://www.linkedin.com/posts/michigan-ross-business-tech_nocode-uofm-michigan-activity-6999099758757732352-F25F?utm_source=share&utm_medium=member_desktop)!<br>
+🏆 Winner of the UM College of Engineering Center for Entrepreneurship's Fuel award!<br>
+*(If you'd like more details on this project, please let me know!)*
+
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/bf3f341a-6e36-4007-84d1-6449aea723db" alt="The Herd app icon" width="60"/><br>
 **The Herd**<br>
 [More Details](https://github.com/BaBingoBango/The-Herd)<br>
@@ -13,13 +21,6 @@ These are projects I've done outside of classes, going back quite a while - not 
 [More Details](https://github.com/BaBingoBango/Pixel-Pursuit)<br>
 🔍 Uncover a digital crime scene and investigate a mysterious (alleged) thief in this AR game themed around computer forensics!<br>
 ⭐️ A winner of Apple’s [WWDC23 Swift Student Challenge](https://web.archive.org/web/20230404002347/https://developer.apple.com/wwdc23/swift-student-challenge/)!
-
-<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/bad1a550-000f-4c02-b259-593abab8ef84" alt="CORE app icon" width="60"/><br>
-**CORE**<br>
-🔬 Create and publish custom research studies using Apple ResearchKit!<br>
-🔭 Find and participate in studies using the Discover system's matchmaking!<br>
-🏆 The 1st place winner of the [2022 Michigan Ross Business+Tech Innovation Jam](https://www.linkedin.com/posts/michigan-ross-business-tech_nocode-uofm-michigan-activity-6999099758757732352-F25F?utm_source=share&utm_medium=member_desktop)!<br>
-*(If you'd like more details on this project, please let me know!)*
 
 <img src="https://user-images.githubusercontent.com/40375449/182772451-f79f85d9-38a6-4436-9028-b9c9edc5cbfe.png" alt="appIcon" width="60"/><br>
 **One Step Ahead**<br>
