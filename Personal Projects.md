@@ -5,46 +5,46 @@ These are projects I've done outside of classes, going back quite a while - not 
 <img src="https://github.com/user-attachments/assets/c76c86ae-000f-4b0b-8a5c-79e5ab53cdd9" alt="Fireteam app icon" width="60"/><br>
 **Fireteam**<br>
 [![WWDC26 Winner](https://img.shields.io/badge/WWDC26%20Winner-000000?style=flat&logo=apple&logoColor=white)](https://developer.apple.com/wwdc26/) [![Repository](https://img.shields.io/badge/Repository-6e40c9?style=flat&logo=github&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone)<br>
-🔥 *Description coming soon!*<br>
+🔥 A SwiftUI-first drag-and-drop multi-agent system (MAS) builder for LLMs.<br>
+🧩 Complete the tutorial, then connect agent input/outputs together to form flows of information and learn about LLM safety.<br>
 ⭐️ A winner of Apple's WWDC26 Swift Student Challenge!
 
 <img src="https://github.com/user-attachments/assets/dd2ce6e0-905b-4ed8-aac1-60bb7b97d4a1" alt="Chorale app icon" width="60"/><br>
 **Chorale**<br>
-[![Web App](https://img.shields.io/badge/Web%20App-4285F4?style=flat&logo=safari&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone) [![Repository](https://img.shields.io/badge/Repository-6e40c9?style=flat&logo=github&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone)<br>
-🎵 *Description coming soon!*<br>
-🌐 A web app with a marketing site!
+[![Next.js Web App](https://img.shields.io/badge/Web%20App-4285F4?style=flat&logo=safari&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone) [![Repository](https://img.shields.io/badge/Repository-6e40c9?style=flat&logo=github&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone)<br>
+🎵 For music teachers: easily assign playing tests to students, collect responses, and export grades.<br>
+🌐 Includes deep-sync using the Google Classroom API.
 
 <img src="https://github.com/user-attachments/assets/1fff7a02-3bb2-413d-bb16-511b782e29b8" alt="Delt app icon" width="60"/><br>
 **delt**<br>
 [![Repository](https://img.shields.io/badge/Repository-6e40c9?style=flat&logo=github&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone)<br>
 🤖 A pyramidal organization-based multi-agent system for software development!<br>
-🧠 *Description coming soon!*
+🧠 Based on the web, use an experimental "corporate" hierarchy of agents to manage software projects and generate code using hand-crafted tools.
 
 <img src="https://github.com/user-attachments/assets/b7a19343-dba7-425b-bcb5-7879a8453e88" alt="FBFD app icon" width="60"/><br>
 **FBFD**<br>
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/metrics-for-product-zone/id1581284514) [![Repository](https://img.shields.io/badge/Repository-6e40c9?style=flat&logo=github&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone)<br>
-🚒 A contracted app built for a fire department!<br>
-📱 *Description coming soon!*
+🚒 Custom build in React Native for the Franklin-Bingham Fire Department.<br>
+📱 Allows speedy access to important data items and quick actions for key phone numbers and locations.
 
 <img src="https://github.com/user-attachments/assets/99d0224f-f5e1-413b-9926-04b69325ba70" alt="Mood Meter app icon" width="60"/><br>
 **Mood Meter**<br>
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/metrics-for-product-zone/id1581284514) [![Repository](https://img.shields.io/badge/Repository-6e40c9?style=flat&logo=github&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone)<br>
-😊 *Description coming soon!*
+😊 A simple utility for logging data into Apple Health's mood tracking system using a two-axis colored grid.
 
 <table><tr><td width="50%" valign="top">
 
 <img src="https://github.com/user-attachments/assets/c8125032-ab29-4f2b-999b-79f5a893587d" alt="Setbook app icon" width="60"/><br>
 **Setbook**<br>
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/metrics-for-product-zone/id1581284514) [![Repository](https://img.shields.io/badge/Repository-6e40c9?style=flat&logo=github&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone)<br>
-🏋️ *Description coming soon!*
+🏋️ Quickly log workouts with no frills or ads.
 
 </td><td width="50%" valign="top">
   
 <img src="https://github.com/user-attachments/assets/8d43d342-a437-4d3f-9965-ec39f8764fd0" alt="Liftgraph app icon" width="60"/><br>
 **Liftgraph**<br>
 [![Repository](https://img.shields.io/badge/Repository-6e40c9?style=flat&logo=github&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone)<br>
-📈 Setbook, but better!<br>
-🏋️ *Description coming soon!*
+📈 Log workouts, save templates, and view lift progress over time with 1RM estimates.
 
 </td></tr></table>
 
