@@ -28,6 +28,7 @@ These are projects I've done outside of classes, going back quite a while - not 
 
 <table><tr><td width="50%" valign="top">
 
+<img src="https://github.com/user-attachments/assets/c8125032-ab29-4f2b-999b-79f5a893587d" alt="Setbook app icon" width="60"/><br>
 **Setbook**<br>
 🏋️ *Description coming soon!*<br>
 📱 Available on the App Store!
