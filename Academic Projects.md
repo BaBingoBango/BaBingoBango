@@ -1,6 +1,6 @@
-# 📚 Academic Projects
+# 📚 Undergraduate Coursework
 
-These are projects I've done for coursework in the [CSE major](https://cse.engin.umich.edu) at the University of Michigan!
+These are projects I completed during my CSE undergrad at the [University of Michigan](https://cse.engin.umich.edu)!
 
 Due to the Honor Code, all the projects are set to private - but if you'd like to see any code, let me know!
 
