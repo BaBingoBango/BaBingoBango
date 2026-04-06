@@ -16,7 +16,7 @@ _Coming to the App Store soon!_<br>
 **Chorale**<br>
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/metrics-for-product-zone/id1581284514) [![Next.js Web App](https://img.shields.io/badge/Web%20App-4285F4?style=flat&logo=safari&logoColor=white)](https://gochorale.com)<br>
 🎵 For music teachers: easily assign playing tests to students, collect responses, and export grades.<br>
-🌐 Includes deep-sync using the Google Classroom API.
+🌐 Includes deep-sync using the Google Classroom API.<br>
 🔨 This project and its supporting app are under construction!
 
 &nbsp;
@@ -105,7 +105,7 @@ _Coming to the App Store soon!_<br>
 <img src="https://user-images.githubusercontent.com/40375449/182772693-77dd1386-8bf5-48d9-a877-7ab4a8fb8639.png" alt="appIcon" width="60"/><br>
 **Metrics for Product Zone**<br>
 [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/metrics-for-product-zone/id1581284514) [![Repository](https://img.shields.io/badge/Repository-6e40c9?style=flat&logo=github&logoColor=white)](https://github.com/BaBingoBango/Metrics-for-Product-Zone)<br>
-📊 Track your Apple Retail sales metrics and view historial stats!<br>
+📊 Track your Apple Retail sales metrics and view historical stats!<br>
 ⌚️ Record on the go with the Apple Watch app!
 
 &nbsp;
