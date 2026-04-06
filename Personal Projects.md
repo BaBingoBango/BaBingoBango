@@ -12,6 +12,7 @@ These are projects I've done outside of classes, going back quite a while - not 
 🎵 *Description coming soon!*<br>
 🌐 A web app with a marketing site!
 
+<img src="https://github.com/user-attachments/assets/1fff7a02-3bb2-413d-bb16-511b782e29b8" alt="Delt app icon" width="60"/><br>
 **delt**<br>
 🤖 A pyramidal organization-based multi-agent system for software development!<br>
 🧠 *Description coming soon!*
