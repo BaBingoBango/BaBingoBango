@@ -2,11 +2,12 @@
 
 These are projects I've done outside of classes, going back quite a while - not all of them are complete! :)
 
-
+<img src="https://github.com/user-attachments/assets/c76c86ae-000f-4b0b-8a5c-79e5ab53cdd9" alt="Fireteam app icon" width="60"/><br>
 **Fireteam**<br>
 🔥 *Description coming soon!*<br>
 ⭐️ A winner of Apple's WWDC26 Swift Student Challenge!<br>
 
+<img src="https://github.com/user-attachments/assets/dd2ce6e0-905b-4ed8-aac1-60bb7b97d4a1" alt="Chorale app icon" width="60"/><br>
 **Chorale**<br>
 🎵 *Description coming soon!*<br>
 🌐 A web app with a marketing site!
@@ -15,10 +16,12 @@ These are projects I've done outside of classes, going back quite a while - not 
 🤖 A pyramidal organization-based multi-agent system for software development!<br>
 🧠 *Description coming soon!*
 
+<img src="https://github.com/user-attachments/assets/b7a19343-dba7-425b-bcb5-7879a8453e88" alt="FBFD app icon" width="60"/><br>
 **FBFD**<br>
 🚒 A contracted app built for a fire department!<br>
 📱 *Description coming soon!*
 
+<img src="https://github.com/user-attachments/assets/99d0224f-f5e1-413b-9926-04b69325ba70" alt="Mood Meter app icon" width="60"/><br>
 **Mood Meter**<br>
 😊 *Description coming soon!*<br>
 📱 Available on the App Store!
@@ -30,7 +33,8 @@ These are projects I've done outside of classes, going back quite a while - not 
 📱 Available on the App Store!
 
 </td><td width="50%" valign="top">
-
+  
+<img src="https://github.com/user-attachments/assets/8d43d342-a437-4d3f-9965-ec39f8764fd0" alt="Liftgraph app icon" width="60"/><br>
 **Liftgraph**<br>
 📈 Setbook, but better!<br>
 🏋️ *Description coming soon!*
