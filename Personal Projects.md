@@ -2,6 +2,41 @@
 
 These are projects I've done outside of classes, going back quite a while - not all of them are complete! :)
 
+
+**Fireteam**<br>
+🔥 *Description coming soon!*<br>
+⭐️ A winner of Apple's WWDC26 Swift Student Challenge!<br>
+
+**Chorale**<br>
+🎵 *Description coming soon!*<br>
+🌐 A web app with a marketing site!
+
+**delt**<br>
+🤖 A pyramidal organization-based multi-agent system for software development!<br>
+🧠 *Description coming soon!*
+
+**FBFD**<br>
+🚒 A contracted app built for a fire department!<br>
+📱 *Description coming soon!*
+
+**Mood Meter**<br>
+😊 *Description coming soon!*<br>
+📱 Available on the App Store!
+
+<table><tr><td width="50%" valign="top">
+
+**Setbook**<br>
+🏋️ *Description coming soon!*<br>
+📱 Available on the App Store!
+
+</td><td width="50%" valign="top">
+
+**Liftgraph**<br>
+📈 Setbook, but better!<br>
+🏋️ *Description coming soon!*
+
+</td></tr></table>
+
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/bad1a550-000f-4c02-b259-593abab8ef84" alt="CORE app icon" width="60"/><br>
 **CORE**<br>
 🔬 Create and publish custom research studies on the web and using our apps!<br>
@@ -10,27 +45,27 @@ These are projects I've done outside of classes, going back quite a while - not 
 🏆 Winner of the UM College of Engineering Center for Entrepreneurship's Fuel award!<br>
 *(If you'd like more details on this project, please let me know!)*
 
-<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/bf3f341a-6e36-4007-84d1-6449aea723db" alt="The Herd app icon" width="60"/><br>
-**The Herd**<br>
-[More Details](https://github.com/BaBingoBango/The-Herd)<br>
-📍 View posts of people in your area in this clone of Yik Yak for Apple devices!<br>
-✨ Explore additonal features like group chats and location changing!
-
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/38aad2c2-ac58-4186-922e-8b67ace53f6c" alt="Pixel Pursuit app icon" width="60"/><br>
 **Pixel Pursuit**<br>
 [More Details](https://github.com/BaBingoBango/Pixel-Pursuit)<br>
 🔍 Uncover a digital crime scene and investigate a mysterious (alleged) thief in this AR game themed around computer forensics!<br>
 ⭐️ A winner of Apple’s [WWDC23 Swift Student Challenge](https://web.archive.org/web/20230404002347/https://developer.apple.com/wwdc23/swift-student-challenge/)!
 
+<img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/bf3f341a-6e36-4007-84d1-6449aea723db" alt="The Herd app icon" width="60"/><br>
+**The Herd**<br>
+[More Details](https://github.com/BaBingoBango/The-Herd)<br>
+📍 View posts of people in your area in this clone of Yik Yak for Apple devices!<br>
+✨ Explore additonal features like group chats and location changing!
+
 <img src="https://user-images.githubusercontent.com/40375449/182772451-f79f85d9-38a6-4436-9028-b9c9edc5cbfe.png" alt="appIcon" width="60"/><br>
 **One Step Ahead**<br>
-[App Store](https://apps.apple.com/us/app/one-step-ahead/id1620737001) | [More Details](https://github.com/BaBingoBango/One-Step-Ahead)<br>
+[More Details](https://github.com/BaBingoBango/One-Step-Ahead)<br>
 🎨 Follow clues to draw a mystery object before an Core ML model trained on your attempts can do it!<br>
 ⭐️ A winner of Apple’s [WWDC22 Swift Student Challenge](https://web.archive.org/web/20220405160208/https://developer.apple.com/wwdc22/swift-student-challenge/)!
 
 <img src="https://user-images.githubusercontent.com/40375449/182772604-4ab08608-0f31-41af-844d-75cfcfa29383.png" alt="appIcon" width="60"/><br>
 **Multiqueue**<br>
-[App Store](https://apps.apple.com/us/app/multiqueue/id1604105691) | [More Details](https://github.com/BaBingoBango/Multiqueue)<br>
+[More Details](https://github.com/BaBingoBango/Multiqueue)<br>
 🎵 Contribute to a friend's Apple Music queue or open up your own!<br>
 🎶 ...or wait for iOS 17 when this [feature comes to SharePlay](https://9to5mac.com/2023/06/30/ios-17-carplay-apple-music-shareplay/#:~:text=On%20the%20Apple%20Music%20Now,to%20join%20your%20SharePlay%20session.) :)
 
