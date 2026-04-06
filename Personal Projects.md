@@ -14,9 +14,10 @@ _Coming to the App Store soon!_<br>
 
 <img src="https://github.com/user-attachments/assets/dd2ce6e0-905b-4ed8-aac1-60bb7b97d4a1" alt="Chorale app icon" width="60"/><br>
 **Chorale**<br>
-[![Next.js Web App](https://img.shields.io/badge/Web%20App-4285F4?style=flat&logo=safari&logoColor=white)](https://gochorale.com)<br>
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/metrics-for-product-zone/id1581284514) [![Next.js Web App](https://img.shields.io/badge/Web%20App-4285F4?style=flat&logo=safari&logoColor=white)](https://gochorale.com)<br>
 🎵 For music teachers: easily assign playing tests to students, collect responses, and export grades.<br>
 🌐 Includes deep-sync using the Google Classroom API.
+🔨 This project and its supporting app are under construction!
 
 &nbsp;
 
@@ -47,7 +48,7 @@ _Available on the App Store as an unlisted product._<br>
 
 <img src="https://github.com/user-attachments/assets/c8125032-ab29-4f2b-999b-79f5a893587d" alt="Setbook app icon" width="60"/><br>
 **Setbook**<br>
-[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/setbook/id6741923006) [![Repository](https://github.com/BaBingoBango/Setbook/settings)<br>
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/setbook/id6741923006)<br>
 🏋️ Quickly log workouts with no frills or ads.
 
 </td><td width="50%" valign="top">
@@ -63,7 +64,7 @@ _Coming to the App Store soon!_<br>
 
 <img src="https://github.com/BaBingoBango/BaBingoBango/assets/40375449/bad1a550-000f-4c02-b259-593abab8ef84" alt="CORE app icon" width="60"/><br>
 **CORE**<br>
-[![Award Winner](https://img.shields.io/badge/Award%20Winner-D4A017?style=flat&logo=trophy&logoColor=white)](https://www.linkedin.com/posts/michigan-ross-business-tech_nocode-uofm-michigan-activity-6999099758757732352-F25F?utm_source=share&utm_medium=member_desktop)<br>
+[![Funding Winner](https://img.shields.io/badge/Award%20Winner-D4A017?style=flat&logo=trophy&logoColor=white)](https://www.linkedin.com/posts/michigan-ross-business-tech_nocode-uofm-michigan-activity-6999099758757732352-F25F?utm_source=share&utm_medium=member_desktop)<br>
 🔬 Create and publish custom research studies on the web and using our apps!<br>
 🔭 Find and participate in studies using the Discover system's matchmaking!<br>
 🏆 The 1st place winner of the [2022 Michigan Ross Business+Tech Innovation Jam](https://www.linkedin.com/posts/michigan-ross-business-tech_nocode-uofm-michigan-activity-6999099758757732352-F25F?utm_source=share&utm_medium=member_desktop)!<br>
