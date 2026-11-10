@@ -1,0 +1,3 @@
+# Editor and Finder files stay out of the repo.
+.idea/
+.DS_Store
